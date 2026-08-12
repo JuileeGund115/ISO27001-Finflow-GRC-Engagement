@@ -18,9 +18,9 @@ requirements — a common real-world driver for SMEs entering the ISO 27001 proc
 
 | Document | Description |
 |---|---|
-| [`FinFlow_ISO27001_Statement_of_Applicability.docx`](./FinFlow_ISO27001_Statement_of_Applicability.docx) | Statement of Applicability covering 25 representative ISO/IEC 27001:2022 Annex A controls, with applicability, implementation status, and justification for each. |
-| [`FinFlow_ISO27001_Risk_Register.docx`](./FinFlow_ISO27001_Risk_Register.docx) | Information security risk register with 12 risks relevant to a fintech SaaS environment, scored by likelihood × impact, with treatment plans. |
-| [`FinFlow_InfoSec_and_IncidentResponse_Policies.docx`](./FinFlow_InfoSec_and_IncidentResponse_Policies.docx) | Two core governance policies: Information Security Policy and Incident Response Policy. |
+| [`FinFlow_ISO27001_Statement_of_Applicability.pdf`](./FinFlow_ISO27001_Statement_of_Applicability.docx) | Statement of Applicability covering 25 representative ISO/IEC 27001:2022 Annex A controls, with applicability, implementation status, and justification for each. |
+| [`FinFlow_ISO27001_Risk_Register.pdf`](./FinFlow_ISO27001_Risk_Register.docx) | Information security risk register with 12 risks relevant to a fintech SaaS environment, scored by likelihood × impact, with treatment plans. |
+| [`FinFlow_InfoSec_and_IncidentResponse_Policies.pdf`](./FinFlow_InfoSec_and_IncidentResponse_Policies.docx) | Two core governance policies: Information Security Policy and Incident Response Policy. |
 
 ## Skills Demonstrated
 - ISO/IEC 27001:2022 Annex A control interpretation and applicability assessment
